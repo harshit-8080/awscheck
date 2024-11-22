@@ -9,3 +9,8 @@ func GetLambdaObject() string {
 	lambdaObject := "lambdaObjectReference"
 	return lambdaObject
 }
+
+func GetSESObject() string {
+	sesObject := "sesObjectReference"
+	return sesObject
+}
